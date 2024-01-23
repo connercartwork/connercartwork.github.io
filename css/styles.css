@@ -4,10 +4,6 @@ body {
     background-color: lightblue;
 }
 
-.game {
-    display: block;
-}
-
 .row {
     background-color: red;
     display: flex;
