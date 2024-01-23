@@ -1,0 +1,32 @@
+/*Text*/
+
+h1 {
+    color: black;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    text-align: center;
+}
+
+.tagline {
+    color: black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.summary {
+    color: black;
+    font-size: 17px;
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+/*Images*/
+
+.selfie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
