@@ -1,3 +1,25 @@
+/*Layout*/
+
+body {
+    background-color: lightblue;
+}
+
+.game {
+    display: block;
+}
+
+.row {
+    background-color: red;
+    display: flex;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column {
+    background-color: pink;
+}
+
 /*Text*/
 
 h1 {
@@ -22,6 +44,12 @@ h1 {
     padding-right: 70px;
 }
 
+.gametitle {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
 /*Images*/
 
 .selfie {
@@ -29,4 +57,10 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 30px;
+}
+
+.tdt_art {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
