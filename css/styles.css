@@ -20,6 +20,10 @@ body {
     margin-bottom: 30px;
 }
 
+#noimg {
+    margin-left: 20px;
+}
+
 /*Text*/
 
 h1 {
@@ -91,6 +95,11 @@ h1 {
 }
 
 #sur_art {
+    height: 200px;
+    width: 200px;
+}
+
+#chan_art {
     height: 200px;
     width: 200px;
 }
